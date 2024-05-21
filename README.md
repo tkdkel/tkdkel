@@ -32,6 +32,8 @@
 <br/>  
 
 
+## My Skill Set  
+
 
 ### Languages and Tools  
 <div align="center">  
@@ -78,8 +80,27 @@
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
 </div>  
 
+![]()  
+  
+
 <br/>  
-<br/>
+
+
+## Spotify Listening  
+<div align="right">
+<img src="https://pa1.aminoapps.com/6273/3bf942380de14fac337b392da92558b68b5a2583_hq.gif" align="right" height="" width="450" />
+</div>  
+  
+
+<div align="right">
+<img src="https://64.media.tumblr.com/e74eeff47109f7338cbb0e21ff84c7dc/tumblr_phdd21qm6C1xizrmbo1_540.gifv" align="right" height="200" width="450" />
+</div>  
+  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=spudpup&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" /></div>  
+
+<br/>  
+
 
 ## Connect with me  
 <div align="center">
@@ -114,23 +135,5 @@
 <div align="center">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aa825589-b5f2-443a-8874-546a7eac55d8/dc3oth1-81a8d907-f574-4bfb-9909-048e2ca44404.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhODI1NTg5LWI1ZjItNDQzYS04ODc0LTU0NmE3ZWFjNTVkOFwvZGMzb3RoMS04MWE4ZDkwNy1mNTc0LTRiZmItOTkwOS0wNDhlMmNhNDQ0MDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YYKehhQjXKtSllgyIqFURRp11J7qvOtIY4LpNIqV5mk" align="center" height="" width="400" />
 </div>  
-  
 
-<br/>  
-
-
-## Spotify Listening  
-<div align="right">
-<img src="https://pa1.aminoapps.com/6273/3bf942380de14fac337b392da92558b68b5a2583_hq.gif" align="right" height="" width="450" />
-</div>  
-  
-
-<div align="right">
-<img src="https://64.media.tumblr.com/e74eeff47109f7338cbb0e21ff84c7dc/tumblr_phdd21qm6C1xizrmbo1_540.gifv" align="right" height="200" width="450" />
-</div>  
-  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=spudpup&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" /></div>
 <br />
-
-----
