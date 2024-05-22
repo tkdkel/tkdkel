@@ -15,7 +15,7 @@
 - ⭐ I’m currently learning how to use Ninja alongside SentinelOne  
   
 
-- 🔥 I just graduated with a Bachelor's in Computer Networking & Cybersecurity with a minor in Digital Forensics  
+- 🔥 I just graduated with a Bachelor's in Computer Networking & Cybersecurity and a minor in Digital Forensics  
   
 
 - 💗 I enjoy video games, horror movies, music, and anime  
