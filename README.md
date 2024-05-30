@@ -12,7 +12,7 @@
 ![]()  
   
 
-- ⭐ I’m currently learning how to use Ninja alongside SentinelOne  
+- ⭐ I’m currently learning how to use a bunch of monitoring tools
   
 
 - 🔥 I just graduated with a Bachelor's in Computer Networking & Cybersecurity and a minor in Digital Forensics  
