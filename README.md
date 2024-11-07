@@ -1,7 +1,7 @@
 ## <div align="center">Hi, I'm Kel 𓅪 </div>  
   
 
-#### <div align="center">Cybersecurity Analyst</div>  
+#### <div align="center">Cybersecurity/Computer Networking</div>  
   
 
 <div align="center">
