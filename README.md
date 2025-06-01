@@ -12,10 +12,10 @@
 ![]()  
   
 
-- ⭐ I’m currently looking for work
+- ⭐ Working and completing my Master's in Cybersecurity Analytics
   
 
-- 🔥 I just graduated with a Bachelor's in Computer Networking & Cybersecurity and a minor in Digital Forensics  
+- 🔥 Bachelor's in Computer Networking & Cybersecurity and a minor in Digital Forensics  
   
 
 - 💗 I enjoy video games, horror movies, music, and anime  
