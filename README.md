@@ -11,8 +11,6 @@
 
 ![]()  
   
-
-- ⭐ Working and completing my Master's in Cybersecurity Analytics
   
 
 - 🔥 Bachelor's in Computer Networking & Cybersecurity and a minor in Digital Forensics  
